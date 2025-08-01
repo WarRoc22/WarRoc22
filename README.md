@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 IT Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Azure Sentinel and Honey pot Lab](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+  - [Active Directory Home Lab](https://github.com/WarRoc22/Active-Directory-Lab)
+  - [Azure Sentinel and Honey pot Lab](https://github.com/WarRoc22/Azure-Sentinel-and-Honeypot-Lab) 
 
 <h2>👨‍💻 CCNA Projects:</h2>
 
