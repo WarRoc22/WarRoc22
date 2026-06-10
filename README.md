@@ -1,4 +1,4 @@
-<h1>Hi, I'm Gary! <br/>An IT Professional</h1>
+<h1>Gary's IT and Cybersecurity Project Portfolio</h1>
 
 <h2>👨‍💻 IT Projects:</h2>
 
