@@ -5,7 +5,6 @@
   - [Active Directory Home Lab](https://github.com/WarRoc22/Active-Directory-Lab)
   - [Azure Sentinel and Honey pot Lab](https://github.com/WarRoc22/Azure-Sentinel-and-Honeypot-Lab) 
 
-<h2>👨‍💻 CCNA Projects:</h2>
 
 
 <h2>👨‍💻 Certifications:</h2>
